@@ -1,2 +1,2 @@
 # spotify
-this is basic spotify page (html ,CSS)
+this is basic spotify page (html ,CSS).
